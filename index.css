@@ -12,7 +12,7 @@
   50%{border-right: 1px solid #000} 
   100%{border-right: 1px solid #fff} 
 }
-body {
+#typ {
   background-image : url('https://media.discordapp.net/attachments/835778655527370763/948191773312823327/38_20220301210851.png');
   background-repeat : no-repeat;
 
