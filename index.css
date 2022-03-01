@@ -12,3 +12,8 @@
   50%{border-right: 1px solid #000} 
   100%{border-right: 1px solid #fff} 
 }
+body {
+  background-image : url('https://media.discordapp.net/attachments/835778655527370763/948187558377033748/IMG_0545.jpg');
+  background-repeat : no-repeat;
+  background-size : cover;
+}
